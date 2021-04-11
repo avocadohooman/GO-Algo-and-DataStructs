@@ -1,2 +1,2 @@
 # GO-Algo-and-DataStructs
-Learning Algorithms + DataStructures with GoLang.
+Solving various algorithm and data structure problems with GoLang.
